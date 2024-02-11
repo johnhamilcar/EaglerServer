@@ -1,0 +1,1 @@
+java -Xmx4096M -Xms3072 server.jar -nogui
